@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the '飞镖忍者' target in the '飞镖忍者' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
